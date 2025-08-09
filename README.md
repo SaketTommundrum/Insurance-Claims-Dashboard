@@ -52,7 +52,8 @@ This dashboard can be used by:
 
 ## 📷 Screenshots
 
-![Sample Dashboard](https://github.com/SaketTommundrum/Insurance-Claims-Dashboard/raw/c2efe284aabe3098668b9809d1e9a916d8c99e92/image1.png)
+<img width="1264" height="445" alt="image" src="https://github.com/user-attachments/assets/02c2b275-3d82-4e5f-8746-c186f1da7674" />
+
 
 ---
 
