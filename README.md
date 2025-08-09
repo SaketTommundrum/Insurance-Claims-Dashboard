@@ -1,6 +1,6 @@
 # Insurance Claims & Policyholder Risk Analysis Dashboard (Excel)
 
-An interactive Excel-based dashboard designed to visualize, analyze, and extract insights from insurance claims and policyholder risk metrics. This project empowers analysts and business teams with actionable metrics across claims, regions, policy types, and premium trends.
+An interactive Excel-based dashboard designed to visualize, analyze, and extract insights from insurance claims and policyholder risk metrics. This project empowers analysts and business teams with actionable insights for claims management, risk segmentation, and premium optimization.
 
 ## 📌 Purpose
 
@@ -52,7 +52,7 @@ This dashboard can be used by:
 
 ## 📷 Screenshots
 
-![Sample Dashboard](image1)
+![Sample Dashboard](https://github.com/SaketTommundrum/Insurance-Claims-Dashboard/raw/c2efe284aabe3098668b9809d1e9a916d8c99e92/image1.png)
 
 ---
 
